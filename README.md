@@ -1,5 +1,5 @@
 # Hello world - Dobro došli!
-Ovo je moj testni GutHub repozitorij.
+Ovo je moj testni GitHub repozitorij.
 
 ## Uvod u GitHub
 
